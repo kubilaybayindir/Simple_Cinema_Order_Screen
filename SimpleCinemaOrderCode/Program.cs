@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sinema_Bufe_Satis1
+namespace Simple_Cinema_Order_Screen
 {
     internal static class Program
     {

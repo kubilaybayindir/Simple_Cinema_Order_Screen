@@ -1,4 +1,4 @@
-﻿namespace Sinema_Bufe_Satis1
+﻿namespace Simple_Cinema_Order_Screen
 {
     partial class Form1
     {

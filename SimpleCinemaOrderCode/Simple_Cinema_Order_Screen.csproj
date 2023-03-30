@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{06A63A83-0704-4C01-A95F-1A05F776E30E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Sinema_Bufe_Satis1</RootNamespace>
-    <AssemblyName>Sinema_Bufe_Satis1</AssemblyName>
+    <RootNamespace>Simple_Cinema_Order_Screen</RootNamespace>
+    <AssemblyName>Simple_Cinema_Order_Screen</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -9,7 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sinema_Bufe_Satis1
+namespace Simple_Cinema_Order_Screen
 {
     public partial class Form1 : Form
     {
